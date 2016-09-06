@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>elementName</key>
+		<string>Calendar/Datepicker</string>
+		<key>iconName</key>
+		<string>calendar</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Forms</string>
+		<key>iconName</key>
+		<string>forms</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Infinite Scroll</string>
+		<key>iconName</key>
+		<string>infinite-scroll</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>List View</string>
+		<key>iconName</key>
+		<string>list-view</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Modals</string>
+		<key>iconName</key>
+		<string>modals</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Tabs</string>
+		<key>iconName</key>
+		<string>tabs</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Picker</string>
+		<key>iconName</key>
+		<string>picker</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Search Bar</string>
+		<key>iconName</key>
+		<string>search-bar</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Swipe To Delete</string>
+		<key>iconName</key>
+		<string>swipe-to-delete</string>
+	</dict>
+	<dict>
+		<key>elementName</key>
+		<string>Notifications</string>
+		<key>iconName</key>
+		<string>notifications</string>
+	</dict>
+</array>
+</plist>

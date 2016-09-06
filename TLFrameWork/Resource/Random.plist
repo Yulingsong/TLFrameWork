@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>MS</string>
+		<string>Mr</string>
+	</array>
+	<array>
+		<string>Funny</string>
+		<string>Cool</string>
+		<string>Hot</string>
+		<string>Wonderful</string>
+		<string>Raining</string>
+		<string>Happy</string>
+		<string>Super</string>
+		<string>Lex</string>
+		<string>Amazing</string>
+		<string>Bat</string>
+		<string>Iron</string>
+		<string>Rocket</string>
+		<string>Cool</string>
+		<string>Beautiful</string>
+	</array>
+	<array>
+		<string>Man</string>
+		<string>Luthor</string>
+		<string>Boy</string>
+		<string>Girl</string>
+		<string>Person</string>
+		<string>Cutie</string>
+		<string>Babe</string>
+		<string>Raccoon</string>
+	</array>
+</array>
+</plist>
